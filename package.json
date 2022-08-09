@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-como-hacer-un-sitio-web-estilo-hacker-utilizando-part-culas-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Msaul03"
+  },
+  "author": "Saul Martinez",
+  "license": "MIT"
+}
